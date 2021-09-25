@@ -1,0 +1,85 @@
+
+body{
+	font-family:sans-serif;
+}
+/*nav bar styling*/
+.navbar{
+    margin:10px;	
+}
+.navright{
+	padding:10px 0px 0px 0px;
+    font-size:16px;}
+
+.nav-bar a{
+	float:right;
+	text-decoration:none;
+	color:gray;
+	margin-right:25px;
+}
+.navright:hover{
+	color:#636161;
+}
+.sign-in{
+	padding:8px 5px 8px 5px;
+	font-size:14px;
+	background:#3a7ee4;
+	text-decoration:none;
+	float:right;
+	height:15px;
+	width:55px;
+	border-radius:5px;
+	color:#ffffff!important;
+	text-align:center;
+}
+.sign-in:hover{
+	background:#1ba4f5;
+}
+/*google styling*/
+
+.google{
+	margin-left:650px;
+	/*margin-bottom:0px!important;*/
+	font-family:sans-serif;
+	width:;
+	height:;
+}
+.google p{
+	font-size:80px;
+	display:inline-block;
+	text-align:center;
+	padding:60px 0px 0px 0px;
+}
+
+.G{color:#4285F4;}
+.o{color:#DB4437;}
+.o1{color:#F4B400;}
+.g{color:#4285F4;}
+.l{color:#0F9D58;}
+.e{color:#DB4437;}
+
+/* Style the search box inside the navigation bar */
+.searchBar input[type=text] {
+  /*padding:0px 10px 10px 10px;*/
+  width:540px;
+  height:32px;
+  border: 1px solid #eaeaea;
+  margin-left: 520px;
+  font-size: 17px;
+}
+
+.two-button{
+    margin-left:670px;	
+	margin-top:40px;
+}
+
+.two-button a{
+	margin:2px;
+	background:#ececec;
+	padding:10px;
+	color:#000000;
+    text-decoration:none;
+}
+
+.two-button a:hover{
+	color:#ffffff!important;
+	background-color:#b3b3b3;
